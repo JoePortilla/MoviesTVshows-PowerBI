@@ -3,7 +3,10 @@ Dashboard en PowerBI sobre películas y series alojados en Netflix. Gráficas po
 
 <img src="Screenshot.png" width="800" alt="logo" style="display:block;margin:auto;">
 
-## Instructor:
+## Dataset
+Este conjunto de datos consta de programas de televisión y películas disponibles en Netflix a partir de 2019. Actualizado hasta el 20 de enero de 2020.
+
+## Instructor
 Joseph Santiago Portilla - Ingeniero Electrónico.
 - GitHub: https://github.com/JoePortilla
 - Twitter: https://twitter.com/JoePortilla
